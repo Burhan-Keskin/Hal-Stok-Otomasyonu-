@@ -1,0 +1,19 @@
+C:\Users\burha\OneDrive\Masaüstü\visula studiyo otomasyon2\stok otomasyonu\stok otomasyonu\bin\Debug\stok otomasyonu.exe.config
+C:\Users\burha\OneDrive\Masaüstü\visula studiyo otomasyon2\stok otomasyonu\stok otomasyonu\bin\Debug\stok otomasyonu.exe
+C:\Users\burha\OneDrive\Masaüstü\visula studiyo otomasyon2\stok otomasyonu\stok otomasyonu\bin\Debug\stok otomasyonu.pdb
+C:\Users\burha\OneDrive\Masaüstü\visula studiyo otomasyon2\stok otomasyonu\stok otomasyonu\obj\Debug\stok_otomasyonu.frmMüşteriEkle.resources
+C:\Users\burha\OneDrive\Masaüstü\visula studiyo otomasyon2\stok otomasyonu\stok otomasyonu\obj\Debug\stok_otomasyonu.Properties.Resources.resources
+C:\Users\burha\OneDrive\Masaüstü\visula studiyo otomasyon2\stok otomasyonu\stok otomasyonu\obj\Debug\stok otomasyonu.csproj.GenerateResource.cache
+C:\Users\burha\OneDrive\Masaüstü\visula studiyo otomasyon2\stok otomasyonu\stok otomasyonu\obj\Debug\stok otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\burha\OneDrive\Masaüstü\visula studiyo otomasyon2\stok otomasyonu\stok otomasyonu\obj\Debug\stok otomasyonu.exe
+C:\Users\burha\OneDrive\Masaüstü\visula studiyo otomasyon2\stok otomasyonu\stok otomasyonu\obj\Debug\stok otomasyonu.pdb
+C:\Users\burha\OneDrive\Masaüstü\visula studiyo otomasyon2\stok otomasyonu\stok otomasyonu\obj\Debug\stok_otomasyonu.frmMüşteriListeleme.resources
+C:\Users\burha\OneDrive\Masaüstü\visula studiyo otomasyon2\stok otomasyonu\stok otomasyonu\obj\Debug\stok_otomasyonu.frmsatış.resources
+C:\Users\burha\OneDrive\Masaüstü\visula studiyo otomasyon2\stok otomasyonu\stok otomasyonu\obj\Debug\stok_otomasyonu.frmKatogori.resources
+C:\Users\burha\OneDrive\Masaüstü\visula studiyo otomasyon2\stok otomasyonu\stok otomasyonu\obj\Debug\stok_otomasyonu.frmMarka.resources
+C:\Users\burha\OneDrive\Masaüstü\visula studiyo otomasyon2\stok otomasyonu\stok otomasyonu\obj\Debug\stok_otomasyonu.frmürünekle.resources
+C:\Users\burha\OneDrive\Masaüstü\visula studiyo otomasyon2\stok otomasyonu\stok otomasyonu\obj\Debug\stok otomasyonu.csprojAssemblyReference.cache
+C:\Users\burha\OneDrive\Masaüstü\visula studiyo otomasyon2\stok otomasyonu\stok otomasyonu\obj\Debug\stok_otomasyonu.frmUrunListeleme.resources
+C:\Users\burha\OneDrive\Masaüstü\visula studiyo otomasyon2\stok otomasyonu\stok otomasyonu\obj\Debug\stok_otomasyonu.frmsatislistele.resources
+C:\Users\burha\OneDrive\Masaüstü\visula studiyo otomasyon2\stok otomasyonu\stok otomasyonu\obj\Debug\stok_otomasyonu.login.resources
+C:\Users\burha\OneDrive\Masaüstü\visula studiyo otomasyon2\stok otomasyonu\stok otomasyonu\obj\Debug\stok_otomasyonu.MüsteriYönetim.resources
