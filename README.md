@@ -1,0 +1,1 @@
+# Hal-Stok-Otomasyonu-
